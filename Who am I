@@ -1,0 +1,11 @@
+#lol-World
+
+#include "fking_world.h"
+
+void question(char* problem);
+
+void main(void)
+{
+    char* problem = "who am I"; 
+    question(problem);
+}
